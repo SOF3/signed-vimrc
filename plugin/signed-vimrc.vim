@@ -16,7 +16,6 @@
 
 scriptencoding utf-8
 
-echo "Hello world"
 if exists('g:loaded_signed_vimrc')
 	finish
 endif
